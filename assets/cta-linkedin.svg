@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="58" viewBox="0 0 280 58" role="img" aria-label="Connect on LinkedIn">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1dfb2"/><stop offset=".5" stop-color="#e2c27d"/><stop offset="1" stop-color="#b98f45"/></linearGradient></defs>
+  <rect x="1" y="1" width="278" height="56" rx="28" fill="url(#gold)"/>
+  <rect x="2" y="2" width="276" height="54" rx="27" fill="none" stroke="#fff" stroke-opacity=".45"/>
+  <circle cx="30" cy="29" r="20" fill="#10302c"/>
+  <path d="M23 25V36M23 20.5V21M29 36V25M29 30C29 25 38 25 38 31V36" fill="none" stroke="#f1dfb2" stroke-width="2.2" stroke-linecap="round"/>
+  <text x="61" y="34" fill="#10302c" font-family="'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="1.25">CONNECT ON LINKEDIN</text>
+</svg>
