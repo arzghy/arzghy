@@ -1,7 +1,7 @@
 <!-- Independent GitHub profile README. Keep assets/ beside this file. -->
 
 <div align="center">
-  <img src="./assets/header.svg" alt="Faza Izzaturrafi, Product Developer, with Arzghy the virtual assistant" width="100%" />
+  <img src="./assets/header.svg" alt="Faza Izzaturrafi, Product Engineer" width="100%" />
 </div>
 
 <br />
@@ -36,105 +36,6 @@ I enjoy moving between disciplines: shaping an interface, designing the data beh
 
 <div align="center">
   <img src="./assets/project-signal.svg" alt="Animated project composition: two front-end, two back-end, four full-stack, and two mobile projects" width="100%" />
-</div>
-
-## Selected products
-
-Nine products and case studies spanning public transport, computer vision, education, health, digital security, and mobile services. Open a product to see its role and core stack.
-
-<details>
-  <summary><strong>Rafamer</strong> — a studio portfolio with game-style character selection</summary>
-
-  A three-person studio portfolio that introduces each developer and their specialty through an interactive character-selection experience.
-
-  <code>Next.js</code> <code>TypeScript</code> <code>GSAP</code> <code>Three.js</code>
-
-  **[Visit Rafamer](https://rafamer.vercel.app)**
-</details>
-
-<details>
-  <summary><strong>TransGIS</strong> — public-transport route planning for Bogor</summary>
-
-  A public-transport guide with interactive route planning for BisKita and angkot trayek, making local journeys easier to understand.
-
-  <code>Next.js</code> <code>MapLibre GL</code> <code>PostgreSQL</code>
-
-  **[Visit TransGIS](https://transgis.vercel.app)**
-</details>
-
-<details>
-  <summary><strong>AegisFlame</strong> — AI-powered fire and smoke detection</summary>
-
-  A YOLO-powered detection workspace for live cameras, uploaded recordings, and single frames.
-
-  <code>Next.js</code> <code>FastAPI</code> <code>PyTorch</code> <code>YOLO</code>
-
-  **[Visit AegisFlame](https://aegisflame.vercel.app)**
-</details>
-
-<details>
-  <summary><strong>Kanjira</strong> — adaptive kanji learning for JLPT N5–N3</summary>
-
-  A kanji learning platform with animated stroke order, adaptive spaced repetition, quizzes, and habit tracking.
-
-  <code>Next.js</code> <code>Golang</code> <code>MongoDB</code> <code>GSAP</code>
-
-  **[Visit Kanjira](https://kanjira.vercel.app)**
-</details>
-
-<details>
-  <summary><strong>Ayunian</strong> — a reusable product catalogue and company website</summary>
-
-  A responsive product catalogue and company information website built on one reusable component system.
-
-  <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-
-  **[Visit Ayunian](https://ayunian.vercel.app)**
-</details>
-
-<details>
-  <summary><strong>Nutrily</strong> — personalized nutrition tracking with an AI assistant</summary>
-
-  A personalized nutrition app with profile-based targets, meal logging, label scanning, and an AI assistant.
-
-  <code>React</code> <code>Golang</code> <code>Supabase</code> <code>Docker</code>
-
-  **[Visit Nutrily](https://nutrily.sensoranote.site)**
-</details>
-
-<details>
-  <summary><strong>ThreatLens</strong> — community-powered digital-security checks</summary>
-
-  A digital-security platform for checking scam numbers, links, and Android apps through automated scans and citizen reports.
-
-  <code>React</code> <code>Golang</code> <code>FastAPI</code> <code>Supabase</code>
-
-  **[Visit ThreatLens](https://threatlens.sensoranote.site)**
-</details>
-
-<details>
-  <summary><strong>SensoraNote</strong> — social learning with verified experts and AI tools</summary>
-
-  A social learning platform with shared notes, verified experts, AI study tools, localization, and admin moderation.
-
-  <code>Laravel</code> <code>React</code> <code>MongoDB</code> <code>FastAPI</code>
-
-  **[Visit SensoraNote](https://sensoranote.site)**
-</details>
-
-<details>
-  <summary><strong>SteamGo</strong> — mobile booking for steam-wash services</summary>
-
-  A mobile booking app with advance and on-site orders, one FIFO queue, and static QRIS payment.
-
-  <code>Flutter</code> <code>Laravel</code> <code>Supabase</code>
-
-  **Mobile product case study**
-</details>
-
-<div align="center">
-  <br />
-  <a href="https://fazaiztrf.vercel.app/projects"><strong>Browse the complete project archive →</strong></a>
 </div>
 
 ## Toolbox
